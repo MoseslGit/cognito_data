@@ -1,0 +1,7 @@
+I’ve given you a picture of a page from a science textbook.
+    
+Please all extract the text from the page, in the order it appears on the page, and describe any images on the page too. Please order the extracted text clearly, using headers, boldening, and tables as required. Ignore the warm up questions and exam questions at the end.
+
+Please do not include any preamble in your answer, just give me the extracted text.
+
+Do not use browsing or analysis. Give image descriptions as they appear, not all at the bottom. When giving image descriptions, start the description with 'Image description:'

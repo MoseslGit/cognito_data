@@ -1,0 +1,1 @@
+Please write a lesson in our style, format, etc, but on the content below. Please change the wording enough so that it does not look copied, but still cover the same key concepts and level of detail. Please use tables, numbered lists and bullet points where helpful. Also suggest diagrams that would be helpful. All words should be in British English.
